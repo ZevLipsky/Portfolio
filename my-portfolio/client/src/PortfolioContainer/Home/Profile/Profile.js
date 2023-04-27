@@ -55,7 +55,7 @@ export default function Profile() {
                         ]}
                         />
                     </h1>
-                    <span className='profile-role-tagline'>Knack of building applications with fron and back end operations.</span>
+                    <span className='profile-role-tagline'>Full Stack Developer looking to start a new challenge.</span>
                 </span>
             </div>
             <div className='profile-options'>

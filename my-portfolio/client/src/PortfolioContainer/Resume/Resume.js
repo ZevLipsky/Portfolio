@@ -212,16 +212,16 @@ surronding Jerusalem, and a testing center for the Ministry of Labor
     /* Interests */
     <div className="resume-screen-container" key="interests">
       <ResumeHeading
-        heading="Teaching"
-        description="Apart from being a tech enthusiast and a code writer, i also love to teach people what i know simply because i believe in sharing."
+        heading="Running"
+        description="Apart from being a tech enthusiast and a code writer, i also love to wake up early in the mornings and go for a long run"
       />
       <ResumeHeading
-        heading="Music"
-        description="Listening to soothing music is something i can never compromise with, skimming through Spotify's pop songs charts is at times the best stress reliever that i can get my hands on."
+        heading="Working Out"
+        description="Working out is something i can never compromise with, going to the gym to lift weights is at times the best stress reliever that i can get my hands on."
       />
       <ResumeHeading
-        heading="Competitive Gaming"
-        description="I like to challenge my reflexes a lot while competing in football games, pushing the rank and having interactive gaming sessions excites me the most."
+        heading="Reading"
+        description="I like to read alot of non-fictional history biographies, sometimes i can find myself getting lost in a book."
       />
     </div>,
   ];

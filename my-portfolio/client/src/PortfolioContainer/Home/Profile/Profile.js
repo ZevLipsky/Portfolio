@@ -66,7 +66,7 @@ export default function Profile() {
                     {""}
                     Hire Me{" "}
                 </button>
-                <a href='ZevsResume.pdf' download='Zev Lipsky ZevLipskyCV.pdf ' >
+                <a href='ZevLipskyCV.pdf' download='Zev Lipsky ZevLipskyCV.pdf ' >
                     <button className=' btn highlighted-btn'>Get Resume</button>
                 </a>
             </div>
